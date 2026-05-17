@@ -27,7 +27,6 @@ Agentic AI to paradygmat sztucznej inteligencji, w którym system AI działa aut
 - Podejmowania niezależnych decyzji
 - Planowania sekwencji działań
 - Interakcji ze środowiskiem (kodem, systemami, zespołami)
-- Iteracyjnego doskonalenia rozwiązań
 
 W przeciwieństwie do tradycyjnych modeli AI, które wymagają bezpośredniej interakcji człowieka, agenty AI mogą pracować w tle, monitorując procesy i reagując na zdarzenia bez ciągłego nadzoru.
 
